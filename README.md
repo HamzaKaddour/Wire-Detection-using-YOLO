@@ -62,6 +62,17 @@ The main results are illustrated in the table and figure below:
 
 
  ## Citation
+
+ This work comes as a Work In Progress contribution to the dataset paper TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmission Towers and Power Lines of Dr. Abdelfattah et al.
+
+```
+@inproceedings{abdelfattah2020ttpla,
+  title={TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmission Towers and Power Lines},
+  author={Abdelfattah, Rabab and Wang, Xiaofeng and Wang, Song},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  year={2020}
+}
+```
 <!--Please do not hesitate to contribute to this project and cite us:
 ```
 @INPROCEEDINGS{10697949,
