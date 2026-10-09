@@ -1,5 +1,7 @@
 # Power-Line & Transmission-Tower Detection with YOLO
 
+> **Research companion repository:** This repository currently focuses on the methodology, quantitative results, figures, and publication/project context. The full experimental training source code is not included in this public repository.
+
 A comparative computer-vision study evaluating **YOLOv5, YOLOv8, and YOLOv11** for detecting power-grid infrastructure in aerial imagery from the **TTPLA** dataset.
 
 The project focuses on a difficult inspection setting: thin wire structures, complex backgrounds, varying object scale, class imbalance, and the effect of image resolution on detector performance.
